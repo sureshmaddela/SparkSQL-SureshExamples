@@ -1,6 +1,7 @@
 package com.bits.upgrad.convert.dataframe2dataset;
 
 import java.util.Arrays;
+
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -15,6 +16,11 @@ import org.apache.spark.sql.SparkSession;
 
 import scala.Tuple2;
 
+/**
+ * The clas is used to concert dataframe to dataset 
+ * @author MaddelaV
+ *
+ */
 public class ConvertDataFrame2Dataset {
 
 	/*
